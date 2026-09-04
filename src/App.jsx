@@ -7,7 +7,6 @@ import { gallery } from './data/gallery'
 
 const reviews = [
   { name: 'Monika Sewag', stars: 5, text: 'My pre wedding shoot make up was very good thank you antima I love this make up and I love her nature thank you ❤️' },
-  { name: 'Anjali Sharma', stars: 1, text: "I'm not recommended to you 😭😞 …" },
   { name: 'Ritika Rathi', stars: 5, text: 'Satisfactory Too good ♥️♥️♥️♥️♥️♥️♥️' },
 ]
 const navItems = ['About', 'Services', 'Gallery', 'Reviews', 'Contact']
