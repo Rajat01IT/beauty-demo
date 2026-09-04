@@ -4,6 +4,7 @@ import { ArrowUpRight, ChevronLeft, ChevronRight, Clock3, MapPin, Menu, Phone, S
 import { businessData, directionsLink, phoneLink } from './data/businessData'
 import { services } from './data/services'
 import { gallery } from './data/gallery'
+import './footer.css'
 
 const reviews = [
   { name: 'Monika Sewag', stars: 5, text: 'My pre wedding shoot make up was very good thank you antima I love this make up and I love her nature thank you ❤️' },
